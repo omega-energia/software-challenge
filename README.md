@@ -2,8 +2,6 @@
     <img src="https://github.com/omega-energia/software-challenge/blob/master/challenge-66.png" width="800">
 </p>
 
-# Software Challenge
-
 ## Descrição
 
 Esse desafio faz parte do processo seletivo da Omega Energia para a vaga de Software Developer e com ele poderemos avaliar melhor seu perfil em relação a vaga. O desafio consiste em duas partes: uma aplicação Front-end e uma solução Back-end. A descrição com os requisitos delas estão respectivamente [aqui](./Frontend.md) e [aqui](./Backend.md).
