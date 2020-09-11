@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/omega-energia/software-challenge/blob/master/challenge-66.png" width="300">
+    <img src="https://github.com/omega-energia/software-challenge/blob/master/challenge-66.png" width="600">
 </p>
 
 # Software Challenge
