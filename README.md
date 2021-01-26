@@ -23,6 +23,6 @@ Mensalmente a empresa Green Co. agrega todas as informações de consumo e cria 
 
 - Desenvolva e use Git para versionamento do código
 - Cria um repositório **privado** em um dos três serviços de hospedagem de código: GitHub, BitBucket ou Gitlab
-- Adicione no seu repositório como membro o usuário [@vinimdocarmo](https://github.com/vinimdocarmo)
-- Envie o documento com a solução Back-end para vinicius.carmo@omegaenergia.com.br
-- Qualquer dúvida sobre esse projeto podem ser perguntadas por email em vinicius.carmo@omegaenergia.com.br
+- Adicione no seu repositório como membro o usuário [@helioccosta20](https://github.com/helioccosta20)
+- Envie o documento com a solução Back-end para helio.costa@omegaenergia.com.br
+- Qualquer dúvida sobre esse projeto podem ser perguntadas por email em helio.costa@omegaenergia.com.br
